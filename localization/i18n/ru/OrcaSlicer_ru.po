@@ -144,7 +144,7 @@ msgstr "Поверхностью на стол"
 
 #, boost-format
 msgid "Filament count exceeds the maximum number that painting tool supports. Only the first %1% filaments will be available in painting tool."
-msgstr "Количество пластиковых нитей превышает максимальное количество, поддерживаемое инструментом рисования. Только первые %1% материала будут доступны в инструменте для рисования."
+msgstr "Количество катушек превышает возможности инструмента. Для покраски будут доступны только первые %1%."
 
 msgid "Color Painting"
 msgstr "Покраска"
@@ -225,7 +225,6 @@ msgstr "Удаление окрашенного участка"
 msgid "Painted using: Filament %1%"
 msgstr "Окрашено с использованием прутка %1%"
 
-# ??? Процедура переназначения материала завершена, выполнена
 msgid "Filament remapping finished."
 msgstr "Катушки переназначены."
 
