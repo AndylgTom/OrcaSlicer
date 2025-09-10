@@ -398,7 +398,7 @@ msgstr "Высота"
 #. Angle between Y axis and text line direction.
 #. TRN - Input label. Be short as possible
 msgid "Rotation"
-msgstr "Поворот"
+msgstr "Наклон"
 
 msgid "Groove"
 msgstr "Паз"
