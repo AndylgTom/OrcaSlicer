@@ -1091,13 +1091,13 @@ msgstr "Размер"
 #. Copy surface of model on surface of the embossed text
 #. TRN - Input label. Be short as possible
 msgid "Use surface"
-msgstr "Только на поверхности"
+msgstr "Проецировать"
 
 #. TRN - Input label. Be short as possible
 #. Option to change projection on curved surface
 #. for each character(glyph) in text separately
 msgid "Per glyph"
-msgstr "Ориентация по глифу"
+msgstr "Нормально к поверхности"
 
 #. TRN - Input label. Be short as possible
 #. Align Top|Middle|Bottom and Left|Center|Right
@@ -7441,7 +7441,7 @@ msgid "Raft"
 msgstr "Подложка"
 
 msgid "Support filament"
-msgstr "Пруток для поддержки"
+msgstr "Материал поддержки"
 
 msgid "Support ironing"
 msgstr "Разглаживание поддержки"
@@ -9223,10 +9223,10 @@ msgid "Bed types supported by the printer."
 msgstr "Типы столов, поддерживаемые принтером."
 
 msgid "Smooth Cool Plate"
-msgstr "Низкотемпературный гладкий лист Bambu"
+msgstr "Низкотемпературный гладкий лист"
 
 msgid "Smooth High Temp Plate"
-msgstr "Высокотемпературная гладкая пластина"
+msgstr "Высокотемпературный гладкий лист"
 
 msgid "Default bed type"
 msgstr "Тип стола по умолчанию"
@@ -12382,22 +12382,22 @@ msgstr ""
 "Для древовидной поддержки, при стройном и органическом стиле происходит более агрессивное объединение ветвей и экономия материала (по умолчанию органический). В то время как гибридный стиль создаёт структуру, схожую с обычную поддержкой при больших плоских нависаниях."
 
 msgid "Default (Grid/Organic)"
-msgstr "По умолчанию (сетка/органический)"
+msgstr "Обычные"
 
 msgid "Snug"
-msgstr "Аккуратный"
+msgstr "Аккуратные"
 
 msgid "Organic"
-msgstr "Органический"
+msgstr "Органические"
 
 msgid "Tree Slim"
-msgstr "Стройный (древ. поддержка)"
+msgstr "Стройные"
 
 msgid "Tree Strong"
-msgstr "Крепкий (древ. поддержка)"
+msgstr "Крепкие"
 
 msgid "Tree Hybrid"
-msgstr "Гибридный (древ. поддержка)"
+msgstr "Гибридные"
 
 msgid "Independent support layer height"
 msgstr "Независимая высота слоя поддержки"
