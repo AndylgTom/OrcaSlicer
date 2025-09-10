@@ -266,7 +266,7 @@ msgstr "мм"
 
 # ??? В оригинале ошибка, подразумевается model
 msgid "Part selection"
-msgstr "Выбрать модель"
+msgstr "Выбрать часть"
 
 msgid "Fixed step drag"
 msgstr "Сместить с шагом"
@@ -398,7 +398,7 @@ msgstr "Высота"
 #. Angle between Y axis and text line direction.
 #. TRN - Input label. Be short as possible
 msgid "Rotation"
-msgstr "Поворот"
+msgstr "Наклон"
 
 msgid "Groove"
 msgstr "Паз"
@@ -1047,7 +1047,7 @@ msgstr "Сброс вращения"
 
 # ??? Там в обе стороны же можно
 msgid "Rotate text Clock-wise."
-msgstr "Поворот текста в фронтальной плоскости (положительные значения соответствуют направлению часовой стрелки)."
+msgstr "Наклон текста в фронтальной плоскости (положительные значения соответствуют направлению часовой стрелки)."
 
 msgid "Unlock the text's rotation when moving text along the object's surface."
 msgstr "Разблокировать вращение текста при перемещении текста по поверхности модели."
