@@ -5819,7 +5819,7 @@ msgid "Set filaments to use"
 msgstr "Выбрать материал"
 
 msgid "Search plate, object and part."
-msgstr "Поиск печатной пластины, модели или части модели."
+msgstr "Найти стол, модель или часть..."
 
 msgid "Pellets"
 msgstr "Гранулы"
@@ -6950,19 +6950,19 @@ msgid "Bambu Cool Plate"
 msgstr "Низкотемпературная пластина Bambu"
 
 msgid "PLA Plate"
-msgstr "PLA пластина"
+msgstr "Лист PLA"
 
 msgid "Bambu Engineering Plate"
-msgstr "Инженерная пластина Bambu"
+msgstr "Инженерный лист Bambu"
 
 msgid "Bambu Smooth PEI Plate"
-msgstr "Гладкая PEI пластина Bambu"
+msgstr "Гладкий PEI-лист Bambu"
 
 msgid "High temperature Plate"
-msgstr "Высокотемпературная пластина"
+msgstr "Высокотемпературный лист"
 
 msgid "Bambu Textured PEI Plate"
-msgstr "Текстурированная PEI пластина Bambu"
+msgstr "Текстурный PEI-лист Bambu"
 
 msgid "Send print job to"
 msgstr "Отправка задания на печать"
