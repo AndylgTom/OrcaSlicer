@@ -786,7 +786,7 @@ msgid "Default font"
 msgstr "Шрифт по умолчанию"
 
 msgid "Advanced"
-msgstr "G-код"
+msgstr "Прочее"
 
 msgid "The text cannot be written using the selected font. Please try choosing a different font."
 msgstr "Невозможно создать текст с выбранным шрифтом, попробуйте указать другой."
