@@ -4634,10 +4634,10 @@ msgid "Quit"
 msgstr "Выход"
 
 msgid "Undo"
-msgstr "Отмена действия"
+msgstr "Отменить"
 
 msgid "Redo"
-msgstr "Повтор действия"
+msgstr "Повторить"
 
 msgid "Cut selection to clipboard"
 msgstr "Вырезать выбранное в буфер обмена"
@@ -4655,7 +4655,7 @@ msgid "Paste clipboard"
 msgstr "Вставить из буфера обмена"
 
 msgid "Delete selected"
-msgstr "Удалить выбранное"
+msgstr "Удалить"
 
 msgid "Deletes the current selection"
 msgstr "Удалить текущие выбранные модели"
@@ -6947,7 +6947,7 @@ msgid "Task canceled"
 msgstr "Задание отменено"
 
 msgid "Bambu Cool Plate"
-msgstr "Низкотемпературная пластина Bambu"
+msgstr "Низкотемпературный лист Bambu"
 
 msgid "PLA Plate"
 msgstr "Лист PLA"
