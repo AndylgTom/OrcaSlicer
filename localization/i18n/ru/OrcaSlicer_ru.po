@@ -226,7 +226,7 @@ msgid "Painted using: Filament %1%"
 msgstr "Окрашено с использованием прутка %1%"
 
 msgid "Filament remapping finished."
-msgstr "Катушки переназначены."
+msgstr "Материал успешно заменён."
 
 msgid "Move"
 msgstr "Перемещение"
