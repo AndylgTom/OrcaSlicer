@@ -7450,7 +7450,7 @@ msgstr "Древовидная поддержка"
 
 # ММ печать
 msgid "Multimaterial"
-msgstr "Комбинированная печать"
+msgstr "Комбинир. печать"
 
 msgid "Prime tower"
 msgstr "Черновая башня"
