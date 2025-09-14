@@ -4672,10 +4672,10 @@ msgid "Clone copies of selections"
 msgstr "Сделать копию выбранного"
 
 msgid "Duplicate Current Plate"
-msgstr "Дублировать печатную пластину"
+msgstr "Дублировать стол"
 
 msgid "Duplicate the current plate"
-msgstr "Дублировать текущую печатную пластину."
+msgstr "Дублировать стол"
 
 msgid "Select all"
 msgstr "Выбрать всё"
@@ -5742,28 +5742,28 @@ msgid "Material settings"
 msgstr "Настройки профиля прутка"
 
 msgid "Remove current plate (if not last one)"
-msgstr "Удалить текущую печатную пластину (кроме последней)"
+msgstr "Удалить стол (кроме последнего)"
 
 msgid "Auto orient objects on current plate"
-msgstr "Автоориентация моделей на текущей печатной пластине"
+msgstr "Положить модели на стол"
 
 msgid "Arrange objects on current plate"
-msgstr "Расставить модели на текущей печатной пластине"
+msgstr "Расставить модели"
 
 msgid "Unlock current plate"
-msgstr "Разблокировать текущую печатную пластину"
+msgstr "Разблокировать стол"
 
 msgid "Lock current plate"
-msgstr "Заблокировать текущую печатную пластину"
+msgstr "Заблокировать стол"
 
 msgid "Edit current plate name"
-msgstr "Изменить имя текущей пластины"
+msgstr "Переименовать стол"
 
 msgid "Move plate to the front"
-msgstr "Переместить пластину вперед"
+msgstr "Переместить стол в начало"
 
 msgid "Customize current plate"
-msgstr "Настроить текущую печатную пластину"
+msgstr "Настроить стол"
 
 #, boost-format
 msgid " plate %1%:"
@@ -5800,7 +5800,7 @@ msgid "Connection"
 msgstr "Подключиться"
 
 msgid "Bed type"
-msgstr "Тип стола"
+msgstr "Покрытие"
 
 msgid "Flushing volumes"
 msgstr "Объём очистки"
@@ -6808,22 +6808,22 @@ msgid "End"
 msgstr "End"
 
 msgid "Customize"
-msgstr "Настройка"
+msgstr "Настроить"
 
 msgid "Other layer filament sequence"
-msgstr "Последовательность прутков на других слоях"
+msgstr "Порядок печати на других слоях"
 
 msgid "Please input layer value (>= 2)."
 msgstr "Пожалуйста, введите значение слоя (>= 2)."
 
 msgid "Plate name"
-msgstr "Имя печатной пластины"
+msgstr "Имя стола"
 
 msgid "Same as Global Print Sequence"
 msgstr "Аналогично глобальной последовательности печати"
 
 msgid "Print sequence"
-msgstr "Последовательность печати моделей"
+msgstr "Порядок печати моделей"
 
 msgid "Same as Global"
 msgstr "Аналогично глобальной настройке"
@@ -6835,7 +6835,7 @@ msgid "Spiral vase"
 msgstr "Спиральная ваза"
 
 msgid "First layer filament sequence"
-msgstr "Последовательность прутков на первом слое"
+msgstr "Порядок печати на первом слое"
 
 msgid "Same as Global Plate Type"
 msgstr "Аналогично глобальному типу пластины"
@@ -6844,10 +6844,10 @@ msgid "Same as Global Bed Type"
 msgstr "Аналогично глобальному типу стола"
 
 msgid "By Layer"
-msgstr "Одновременно"
+msgstr "Послойно"
 
 msgid "By Object"
-msgstr "По очереди"
+msgstr "Поштучно"
 
 msgid "Accept"
 msgstr "Принять"
@@ -9201,22 +9201,22 @@ msgid "Initial layer bed temperature"
 msgstr "Температура стола для первого слоя"
 
 msgid "Bed temperature of the initial layer. A value of 0 means the filament does not support printing on the Cool Plate SuperTack."
-msgstr "Температура стола для первого слоя. 0 означает, что пластиковая нить не поддерживает печать на этой печатной пластине."
+msgstr "Температура стола на первом слое. 0 – материал не поддерживает это покрытие."
 
 msgid "Bed temperature of the initial layer. A value of 0 means the filament does not support printing on the Cool Plate."
-msgstr "Температура стола для первого слоя. 0 означает, что пластиковая нить не поддерживает печать на этой печатной пластине."
+msgstr "Температура стола на первом слое. 0 – материал не поддерживает это покрытие."
 
 msgid "Bed temperature of the initial layer. A value of 0 means the filament does not support printing on the Textured Cool Plate."
-msgstr "Температура стола для первого слоя. 0 означает, что пластиковая нить не поддерживает печать на этой печатной пластине."
+msgstr "Температура стола на первом слое. 0 – материал не поддерживает это покрытие."
 
 msgid "Bed temperature of the initial layer. A value of 0 means the filament does not support printing on the Engineering Plate."
-msgstr "Температура стола для первого слоя. 0 означает, что пластиковая нить не поддерживает печать на этой печатной пластине."
+msgstr "Температура стола на первом слое. 0 – материал не поддерживает это покрытие."
 
 msgid "Bed temperature of the initial layer. A value of 0 means the filament does not support printing on the High Temp Plate."
-msgstr "Температура стола для первого слоя. 0 означает, что пластиковая нить не поддерживает печать на этой печатной пластине."
+msgstr "Температура стола на первом слое. 0 – материал не поддерживает это покрытие."
 
 msgid "Bed temperature of the initial layer. A value of 0 means the filament does not support printing on the Textured PEI Plate."
-msgstr "Температура стола для первого слоя. 0 означает, что пластиковая нить не поддерживает печать на этой печатной пластине."
+msgstr "Температура стола на первом слое. 0 – материал не поддерживает это покрытие."
 
 msgid "Bed types supported by the printer."
 msgstr "Типы столов, поддерживаемые принтером."
