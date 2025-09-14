@@ -2809,7 +2809,6 @@ msgstr "Orca Slicer основан на PrusaSlicer и BambuStudio"
 
 msgid "Libraries"
 msgstr "Библиотеки"
-# ??? Тут слайсер добавляет двоеточие
 msgid "This software uses open source components whose copyright and other proprietary rights belong to their respective owners"
 msgstr "В данном программном обеспечении используются компоненты с открытым исходным кодом, авторские и иные права на которые принадлежат их соответствующим владельцам"
 
