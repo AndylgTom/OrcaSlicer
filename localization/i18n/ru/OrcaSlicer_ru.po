@@ -264,7 +264,6 @@ msgstr "дюйм"
 msgid "mm"
 msgstr "мм"
 
-# ??? В оригинале ошибка, подразумевается model
 msgid "Part selection"
 msgstr "Выбрать часть"
 
