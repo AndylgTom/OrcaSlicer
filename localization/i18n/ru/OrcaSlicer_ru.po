@@ -308,10 +308,10 @@ msgid "Reset Rotation"
 msgstr "Сброс вращения"
 
 msgid "Object coordinates"
-msgstr "Относительная позиция"
+msgstr "Относительно модели"
 
 msgid "World coordinates"
-msgstr "Положение на столе"
+msgstr "Относительно стола"
 
 msgid "Reset current rotation to the value when open the rotation tool."
 msgstr "Сбросить ориентацию до предыдущих значений"
@@ -323,7 +323,7 @@ msgid "Reset current rotation to real zeros."
 msgstr "Сбросить ориентацию"
 
 msgid "Part coordinates"
-msgstr "Координаты части"
+msgstr "Относительно части"
 
 #. TRN - Input label. Be short as possible
 msgid "Size"
@@ -1046,7 +1046,7 @@ msgstr "Сброс вращения"
 
 # ??? Там в обе стороны же можно
 msgid "Rotate text Clock-wise."
-msgstr "Наклон текста в фронтальной плоскости (положительные значения соответствуют направлению часовой стрелки)."
+msgstr "Наклон текста в фронтальной плоскости."
 
 msgid "Unlock the text's rotation when moving text along the object's surface."
 msgstr "Разблокировать вращение текста при перемещении текста по поверхности модели."
