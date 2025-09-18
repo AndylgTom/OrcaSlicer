@@ -4183,7 +4183,7 @@ msgid "part selectiont"
 msgstr "Выделить часть"
 
 msgid "number keys"
-msgstr "цифры"
+msgstr "(цифры)"
 
 msgid "number keys can quickly change the color of objects"
 msgstr "Быстро переназначить цвет"
