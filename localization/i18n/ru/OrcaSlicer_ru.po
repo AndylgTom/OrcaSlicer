@@ -6770,10 +6770,10 @@ msgid "AMS filaments"
 msgstr "Прутки АСПП"
 
 msgid "Click to select filament color"
-msgstr "Изменить цвет катушки"
+msgstr "Изменить цвет"
 
 msgid "Please choose the filament color"
-msgstr "Изменение цвета катушки"
+msgstr "Изменение цвета"
 
 msgid "Add/Remove presets"
 msgstr "Добавить/удалить профиль"
@@ -8722,7 +8722,7 @@ msgid "Inner wall"
 msgstr "Внутренние периметры"
 
 msgid "Outer wall"
-msgstr "Внешний периметр"
+msgstr "Внешние периметры"
 
 msgid "Overhang wall"
 msgstr "Нависающие периметры"
@@ -14167,7 +14167,7 @@ msgstr ""
 "Конечное > Начальное + Шаг"
 
 msgid "VFA test"
-msgstr "Тест на вертикальные артефакты (VFA)"
+msgstr "Тест ряби (VFA)"
 
 msgid "Start speed: "
 msgstr "Начальная скорость: "
