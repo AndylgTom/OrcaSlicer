@@ -470,7 +470,7 @@ msgid "Move connector"
 msgstr "Переместить соединение"
 
 msgid "Add connector to selection"
-msgstr "Выделить соединение"
+msgstr "Выбрать соединение"
 
 msgid "Remove connector from selection"
 msgstr "Снять выбор"
