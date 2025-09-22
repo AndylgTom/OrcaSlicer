@@ -314,7 +314,7 @@ msgid "World coordinates"
 msgstr "Относительно стола"
 
 msgid "Reset current rotation to the value when open the rotation tool."
-msgstr "Сбросить ориентацию до предыдущих значений"
+msgstr "Сбросить последние изменения ориентации"
 
 msgid "Rotate (absolute)"
 msgstr "Поворот"
