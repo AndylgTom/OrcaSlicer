@@ -2815,7 +2815,7 @@ msgstr "В данном программном обеспечении испол
 # ??? Используется, судя по всему, только в паре с "OrcaSlicer", убираем пару гласных
 #, c-format, boost-format
 msgid "About %s"
-msgstr "Об %s"
+msgstr "О программе %s"
 
 msgid "OrcaSlicer is based on BambuStudio, PrusaSlicer, and SuperSlicer."
 msgstr "OrcaSlicer основан на проектах BambuStudio, PrusaSlicer и SuperSlicer."
