@@ -196,7 +196,7 @@ msgstr "Поменять материал"
 
 # ??? Перевыбрать
 msgid "Remap"
-msgstr "Заменить"
+msgstr "Применить"
 
 msgid "Cancel"
 msgstr "Отмена"
