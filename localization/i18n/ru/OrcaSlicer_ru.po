@@ -2976,7 +2976,7 @@ msgid "Enable AMS"
 msgstr "Включить АСПП"
 
 msgid "Print with filaments in the AMS"
-msgstr "Печать катушками из АСПП."
+msgstr "Печать материалами из АСПП."
 
 msgid "Disable AMS"
 msgstr "Отключить АСПП"
