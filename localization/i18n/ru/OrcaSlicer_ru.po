@@ -4131,7 +4131,7 @@ msgid "Adaptive"
 msgstr "Адаптировать"
 
 msgid "Quality / Speed"
-msgstr "Качество / cкорость"
+msgstr "Качество/Скорость"
 
 msgid "Smooth"
 msgstr "Сгладить"
