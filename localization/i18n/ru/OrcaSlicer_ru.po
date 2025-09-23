@@ -275,7 +275,7 @@ msgid "Single sided scaling"
 msgstr "Масштабирование без привязки к центру"
 
 msgid "Position"
-msgstr "Координаты"
+msgstr "Позиция"
 
 msgid "Rotate (relative)"
 msgstr "Прибавить угол"
@@ -411,7 +411,7 @@ msgstr "Угол наклона"
 msgid "Groove Angle"
 msgstr "Угол скоса"
 
-# ??? отображается в инструменте Текст
+# ??? в орке видать исправили
 msgid "Part"
 msgstr "Часть"
 
@@ -1096,7 +1096,7 @@ msgstr "Проецировать"
 #. Option to change projection on curved surface
 #. for each character(glyph) in text separately
 msgid "Per glyph"
-msgstr "Нормально к поверхности"
+msgstr "По буквам"
 
 #. TRN - Input label. Be short as possible
 #. Align Top|Middle|Bottom and Left|Center|Right
@@ -1821,7 +1821,7 @@ msgid "Orca Cube"
 msgstr "Куб Orca Design"
 
 msgid "Orca Tolerance Test"
-msgstr "Тест допусков от Orca"
+msgstr "Тест точности Orca"
 
 msgid "3DBenchy"
 msgstr "3DBenchy"
@@ -2099,7 +2099,7 @@ msgid "Lock"
 msgstr "Заблокировать"
 
 msgid "Edit Plate Name"
-msgstr "Изменить имя печатной пластины"
+msgstr "Переименовать стол"
 
 msgid "Name"
 msgstr "Имя"
