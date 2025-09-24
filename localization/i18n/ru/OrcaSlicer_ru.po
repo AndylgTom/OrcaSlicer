@@ -320,7 +320,7 @@ msgid "Rotate (absolute)"
 msgstr "Поворот"
 
 msgid "Reset current rotation to real zeros."
-msgstr "Сбросить ориентацию"
+msgstr "Сбросить ориентацию до изначальной"
 
 msgid "Part coordinates"
 msgstr "Относительно части"
@@ -598,7 +598,7 @@ msgid "Cut by Plane"
 msgstr "Разрез по плоскости"
 
 msgid "non-manifold edges be caused by cut tool, do you want to fix it now?"
-msgstr "При разделении образовались открытые рёбра. Попытаться исправить модель?"
+msgstr "При разрезании образовались открытые рёбра. Хотите исправить это сейчас?"
 
 msgid "Repairing model object"
 msgstr "Починка модели"
@@ -1577,7 +1577,7 @@ msgid "The Orca Slicer needs an upgrade"
 msgstr "Orca Slicer нуждается в обновлении."
 
 msgid "This is the newest version."
-msgstr "Установлена новейшая версия программы."
+msgstr "Установлена последняя версия программы."
 
 msgid "Info"
 msgstr "Информация"
@@ -2144,13 +2144,13 @@ msgid "Right button click the icon to drop the object printable property"
 msgstr "Нажмите правой кнопкой мыши на значок, чтобы разрешить/запретить печать модели."
 
 msgid "Click the icon to toggle printable property of the object"
-msgstr "Переключить печать модели"
+msgstr "Печатать модель"
 
 msgid "Click the icon to edit support painting of the object"
-msgstr "Разместить поддержки"
+msgstr "Изменить области расположения поддержек"
 
 msgid "Click the icon to edit color painting of the object"
-msgstr "Перекраскрасить модель"
+msgstr "Перекрасить модель"
 
 msgid "Click the icon to shift this object to the bed"
 msgstr "Вытолкнуть на стол"
@@ -2812,7 +2812,6 @@ msgstr "Библиотеки"
 msgid "This software uses open source components whose copyright and other proprietary rights belong to their respective owners"
 msgstr "В данном программном обеспечении используются компоненты с открытым исходным кодом, авторские и иные права на которые принадлежат их соответствующим владельцам"
 
-# ??? Используется, судя по всему, только в паре с "OrcaSlicer", убираем пару гласных
 #, c-format, boost-format
 msgid "About %s"
 msgstr "О программе %s"
@@ -4145,7 +4144,6 @@ msgstr "Не смещать минимумы"
 msgid "Left mouse button:"
 msgstr "Левая кнопка мыши:"
 
-# ??? Неточность в исходной строке: детализация зависит от многих факторов, тут же меняется исключительно высота слоя
 msgid "Add detail"
 msgstr "Уменьшить высоту слоя"
 
@@ -4293,7 +4291,7 @@ msgid "Assemble Control"
 msgstr "Управление сборкой"
 
 msgid "part selection"
-msgstr "Выбор элемента"
+msgstr "Выбрать часть"
 
 msgid "Selection Mode"
 msgstr "Режим выделения"
@@ -4748,7 +4746,6 @@ msgstr "Калибровка температуры"
 msgid "Pass 1"
 msgstr "Проход 1"
 
-# ??? У коэффициента не может быть скорости
 msgid "Flow rate test - Pass 1"
 msgstr "Тест потока - 1-ый проход"
 
