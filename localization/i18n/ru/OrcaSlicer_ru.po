@@ -1695,7 +1695,7 @@ msgid "Fatal error, exception caught: %1%"
 msgstr "Критическая ошибка, обнаружено исключение: %1%"
 
 msgid "Quality"
-msgstr "Качество"
+msgstr "Вид"
 
 msgid "Shell"
 msgstr "Оболочка"
@@ -7446,7 +7446,7 @@ msgstr "Древовидная поддержка"
 
 # ММ печать
 msgid "Multimaterial"
-msgstr "Комбинир. печать"
+msgstr "Материалы"
 
 msgid "Prime tower"
 msgstr "Черновая башня"
